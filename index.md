@@ -4,7 +4,7 @@
 
 ### Gesture Recognizer
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/CNNGestureRecognizer)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/YashrajPathak/Gesture-Recognition-using-NN.git)
 
 Gesture recognition via CNN neural network implemented in Keras + Theano + OpenCV
 
